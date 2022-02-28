@@ -2027,11 +2027,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\LearnDotNet\\EF Core\\D2\\D2.csproj",
+      "projectUniqueName": "e:\\LearnDotNet\\EF Core\\Source\\D2\\D2\\D2.csproj",
       "projectName": "D2",
-      "projectPath": "e:\\LearnDotNet\\EF Core\\D2\\D2.csproj",
+      "projectPath": "e:\\LearnDotNet\\EF Core\\Source\\D2\\D2\\D2.csproj",
       "packagesPath": "C:\\Users\\dungh\\.nuget\\packages\\",
-      "outputPath": "e:\\LearnDotNet\\EF Core\\D2\\obj\\",
+      "outputPath": "e:\\LearnDotNet\\EF Core\\Source\\D2\\D2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dungh\\AppData\\Roaming\\NuGet\\NuGet.Config",

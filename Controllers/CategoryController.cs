@@ -76,7 +76,7 @@ public class CategoryController : ControllerBase
             {
                 Id =result.Id,
                 Name = result.Name,
-                Products = (from p in result.Products
+                Products = from p in result.Products
                             select new ProductViewModel
                             {
                                 Id = p.Id,
